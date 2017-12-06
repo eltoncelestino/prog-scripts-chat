@@ -8,13 +8,13 @@ Trabalho final da disciplina de programação em shell script para o curso de Re
 
 Para iniciar o servidor é necessário possuir o pacote netpipes instalado.
 
-Feito isso, é só executar o script server.sh
+Feito isso, basta executar o script server.sh
 
 # Conectar como cliente
 
 O usuário deve ter o pacote netpipes instalado em sua máquina.
 
-Feito isso,  só executar o script client.sh.
+Feito isso, basta executar o script client.sh.
 
 # Contribuidores
 
