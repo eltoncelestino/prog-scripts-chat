@@ -1,7 +1,7 @@
 #!/bin/bash
 
-ip=$1
-u=$(cat usr)
+ip=$2
+u=$1
 clear
 while true
 do
