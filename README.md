@@ -24,7 +24,7 @@ Sara Cibelle Queiroz
 
 Gabriel Brandão Maia Lima
 
-Igor Holanda 
+Igor Mykael F. de Holanda
 
 Elton Celestino de Lima
 
