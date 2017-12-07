@@ -15,7 +15,7 @@ tmux select-pane -t 0
 tmux send-keys "./user_tela.sh $client $ip" C-m
 tmux send-keys "clear" C-m
 tmux select-pane -t 1
-tmux send-keys "./user_msg.sh $ip" C-m
+tmux send-keys "./user_msg.sh $client $ip" C-m
 
 tmux attach-session -t $SESSION
 
