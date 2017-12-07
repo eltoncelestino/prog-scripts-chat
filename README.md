@@ -14,13 +14,13 @@ Feito isso, basta executar o script server.sh
 
 O usuário deve ter o pacote netpipes e tmux instalado em sua máquina.
 
-Feito isso, basta executar o script telas.sh, quando for executado, o script pedirá o nome do usuário e o IP do servidor.
+Feito isso, basta executar o script client.sh, quando for executado, o script pedirá o nome do usuário e o IP do servidor.
 
 # Contribuidores
 
-Mara Vitória Lima
+Mara Vitória Soares de Lima
 
-Sara Cibelle Queiroz
+Sara Cibelle de Lima Queiroz
 
 Gabriel Brandão Maia Lima
 
