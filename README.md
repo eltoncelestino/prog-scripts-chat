@@ -12,9 +12,9 @@ Feito isso, basta executar o script server.sh
 
 # Conectar como cliente
 
-O usuário deve ter o pacote netpipes instalado em sua máquina.
+O usuário deve ter o pacote netpipes e tmux instalado em sua máquina.
 
-Feito isso, basta executar o script client.sh.
+Feito isso, basta executar o script telas.sh, quando for executado, o script pedirá o nome do usuário e o IP do servidor.
 
 # Contribuidores
 
